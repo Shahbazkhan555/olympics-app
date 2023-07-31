@@ -2,7 +2,6 @@
 
 ## Demo
 
-![Email Spam Classifier Demo](olympics-demo.gif)
 ![Olympics App](olympics-demo.gif)
 
 
